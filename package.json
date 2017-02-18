@@ -16,8 +16,7 @@
     "url": "https://github.com/WebManufacture/ILAB-3.0/issues"
   },
   "homepage": "https://github.com/WebManufacture/ILAB-3.0#readme",
-  "dependencies" :
-  {
-    "child-process-debug" : "^0.0.7"
+  "dependencies": {
+    "child-process-debug": "^0.0.7"
   }
 }
